@@ -1,5 +1,5 @@
 # hyperblog :tw-1f49a:
-Un Blog increible para el[ curso de Git y GitHub de Platzi](http://https://platzi.com/home " curso de Git y GitHub de Platzi")
+Un Blog increible para el[ [curso de Git y GitHub de Platzi](https://https://platzi.com/home "curso de Git y GitHub de Platzi")](http://https://platzi.com/home " curso de Git y GitHub de Platzi")
 >Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt iusto quos odit atque deleniti eos doloribus aliquam asperiores saepe inventore nam porro, est animi eius praesentium deserunt totam officia magni?
 > - ninita
 
@@ -10,4 +10,4 @@ Un Blog increible para el[ curso de Git y GitHub de Platzi](http://https://platz
 * trucos muy locos del profesor
 * la personalidades multiples de freddy
 
-Y como un amable recordatorio: **Este readme.md es un chiste**.  Disenado para el ejemplo. Si llegas aca NO TE LO TOMES ENSERIO y **mejor ve al** [**curso**](http://https://platzi.com/home "curso"). 
+Y como un amable recordatorio: **Este readme.md es un chiste**.  Disenado para el ejemplo. Si llegas aca NO TE LO TOMES ENSERIO y **mejor ve al** [**[curso](https://https://platzi.com/home "curso")**](http://https://platzi.com/home "curso"). 
